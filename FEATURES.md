@@ -30,4 +30,4 @@ Return to a saved state after trying a different workshop or town setup.
 
 Prepare a crafting budget, save your town profile and compare two workshop setups. Keep the production configuration that fits your resource flow.
 
-[Download for PC](https://flyn.im/94ykBM)
+[Download for PC](https://flyn.im/6PCpxq)

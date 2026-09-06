@@ -6,7 +6,7 @@
 | Platform | Windows / PC |
 | Steam game ID | 4358690 |
 | Functions | Materials / Crafting / Production / Town development / Automation |
-| Download | [PC package](https://flyn.im/94ykBM) |
+| Download | [PC package](https://flyn.im/6PCpxq) |
 
 ## Setup
 

